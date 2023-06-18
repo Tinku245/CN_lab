@@ -1,0 +1,2 @@
+This is "sample.txt" file.
+This is a new line text in same file.
